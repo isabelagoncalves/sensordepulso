@@ -1,1 +1,1 @@
-# sensordepulso
+# sensor de pulso
