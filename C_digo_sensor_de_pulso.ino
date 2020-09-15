@@ -18,7 +18,7 @@ void loop() {
    Serial.println(Sinal);      // Manda o sinal para o Serial plotter
 
 
-   if(Sinal > Limite){            // Se o sinal for maior que o limite LED ativo
+   if(Sinal > Limite){            // Se o sinal for maior que o limite LED ativa
      digitalWrite(LED,HIGH);
    } else {
      digitalWrite(LED,LOW);               
